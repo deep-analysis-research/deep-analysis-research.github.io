@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 走进结构化
+title: 结构化
 short_description: 什么是结构化，从认知理论出发人类为什么要结构化，以及LLM为什么要结构化，该如何结构化。
 ---
 
