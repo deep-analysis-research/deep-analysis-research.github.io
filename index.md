@@ -10,12 +10,15 @@ We study LLM's mechanistic interpretability and agents.
 
 We are excited to expand our team and are currently seeking Research Interns to join us on our journey. For more details and to apply, please visit [Learn More](https://careers.aliyun.com/campus/position-detail?lang=zh&positionId=9900008505).
 
+---
+
 # Selected Blogs
 
 - **结构化** <br>
   A talk on what is structurization, why structurization is important for humans and LLMs and how to do structurization. <br>
   <a href="{{ site.baseurl }}{% post_url 2025-04-22-Structurization %}">blogpost</a>
 
+---
 
 # Selected work
 
@@ -57,8 +60,11 @@ We are excited to expand our team and are currently seeking Research Interns to 
   ACL 2024 (Main) <br>
     [paper](https://arxiv.org/abs/2410.02811)
 
+---
+
 # Favorite talks
 - [An Observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A)
 
+---
 
 (last updated: Apr 2025)
