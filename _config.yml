@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            DeepAnalysisResearch
+tagline:          'Homepage for DAR Team'
+description:      'A site for Research and Blog shared from team'
+url:              https://deepanalysisresearch.github.io/
+baseurl:          https://deepanalysisresearch.github.io/
+
+author:
+  name:           'DeepAnalysisResearch'
+  url:            
+
+paginate:         10
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:          1.1.0
+
+github:
+  repo:           https://deepanalysisresearch.github.io/
