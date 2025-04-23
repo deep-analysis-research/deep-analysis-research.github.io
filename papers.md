@@ -33,8 +33,6 @@ ICLR, 2025.
 [1] Sac-kg: Exploiting large language models as skilled automatic constructors for domain
 knowledge graphs. ACL, 2024.
 
----
-
 [2] Knowledge graph finetuning enhances knowledge manipulation in large language
 models. ICLR, 2025.
 
