@@ -17,6 +17,8 @@ Control. NeurIPS, 2024.
 [4] Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions.
 ACL, 2025
 
+---
+
 # Model Enhancing
 
 [1] Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs.
@@ -24,10 +26,14 @@ ICLR, 2025.
 
 [2] NeuronMerge: Merging Models via Functional Neuron Groups. ACL, 2025.
 
+---
+
 # Structurization
 
 [1] Sac-kg: Exploiting large language models as skilled automatic constructors for domain
 knowledge graphs. ACL, 2024.
+
+---
 
 [2] Knowledge graph finetuning enhances knowledge manipulation in large language
 models. ICLR, 2025.
