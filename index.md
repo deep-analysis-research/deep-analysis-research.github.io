@@ -34,7 +34,7 @@ We are excited to expand our team and are currently seeking Research Interns to 
     [repo](https://github.com/deep-analysis-research/sycophancy-interpretability)
 
 - **Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control** <br>
-  Yuxin Xiao, Wan Chaoqun, Yonggang Zhang, Wenxiao Wang, Binbin Lin, Xiaofei He, Xu Shen, Jieping Ye <br>
+  Yuxin Xiao, Chaoqun Wan, Yonggang Zhang, Wenxiao Wang, Binbin Lin, Xiaofei He, Xu Shen, Jieping Ye <br>
   NeurIPS 2024 <br>
     [paper](https://arxiv.org/abs/2411.02461)
 
