@@ -194,15 +194,15 @@ short_description: 什么是结构化，从认知理论出发人类为什么要�
 > **<font style="color:rgb(102, 102, 102);">References: </font>**
 >
 > <font style="color:rgb(102, 102, 102);">[7] John Sweller. Cognitive load during problem solving: Effects on learning.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[8] Paul Chandler and John Sweller. Cognitive load theory and the format of instruction.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[9] Iris Vessey. Cognitive fit: A theory-based analysis of the graphs versus tables literature.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[10] Narayan S. Umanath and Iris Vessey. Multiattribute data presentation and human judgment: A cognitive fit perspective.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[11] Zhuoqun Li, Hongyu Lin, Yaojie Lu, Hao Xiang, Xianpei Han, and Le Sun. Meta-cognitive analysis: Evaluating declarative and procedural knowledge in datasets and large language models.</font>
->
+> <br>
 
 
 
@@ -364,31 +364,31 @@ short_description: 什么是结构化，从认知理论出发人类为什么要�
 > **<font style="color:rgb(102, 102, 102);">References: </font>**
 >
 > <font style="color:rgb(102, 102, 102);">[7] John Sweller. Cognitive load during problem solving: Effects on learning.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[8] Paul Chandler and John Sweller. Cognitive load theory and the format of instruction.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[9] Iris Vessey. Cognitive fit: A theory-based analysis of the graphs versus tables literature.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[10] Narayan S. Umanath and Iris Vessey. Multiattribute data presentation and human judgment: A cognitive fit perspective.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[11] Zhuoqun Li, Hongyu Lin, Yaojie Lu, Hao Xiang, Xianpei Han, and Le Sun. Meta-cognitive analysis: Evaluating declarative and procedural knowledge in datasets and large language models.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[12] Parag Jain, Andreea Marzoca, and Francesco Piccinno. STRUCTSUM generation for faster text comprehension.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[13] Li Z, Chen X, Yu H, et al. Structrag: Boosting knowledge intensive reasoning of llms via inference-time hybrid information structurization[J]. arXiv preprint arXiv:2410.08815, 2024.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[14] Wang, Jinyu, et al. "PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation." arXiv preprint arXiv:2501.11551 (2025).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[15] Wu, Shirley, et al. "Stark: Benchmarking llm retrieval on textual and relational knowledge bases." Advances in Neural Information Processing Systems 37 (2024): 127129-127153.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[16] Guo, Zirui, et al. "Lightrag: Simple and fast retrieval-augmented generation." (2024).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[17] Huang, Chensen, et al. "Recurrent context compression: Efficiently expanding the context window of llm." arXiv preprint arXiv:2406.06110 (2024).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[18] Liu, Kai, et al. "Educating llms like human students: Structure-aware injection of domain knowledge." arXiv e-prints (2024): arXiv-2407.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[19] Jain, Parag, Andreea Marzoca, and Francesco Piccinno. "Structsum generation for faster text comprehension." arxiv preprint arxiv:2401.06837 (2024).</font>
->
+> <br>
 
 ## 2.2 LLM为什么要做结构化
 ![](https://intranetproxy.alipay.com/skylark/lark/0/2025/png/166856602/1744892874828-8ad2ae6f-75b9-42b0-a931-0d661f989ea0.png)
@@ -500,31 +500,31 @@ short_description: 什么是结构化，从认知理论出发人类为什么要�
 > **<font style="color:rgb(102, 102, 102);">References: </font>**
 >
 > <font style="color:rgb(102, 102, 102);">[7] John Sweller. Cognitive load during problem solving: Effects on learning.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[8] Paul Chandler and John Sweller. Cognitive load theory and the format of instruction.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[9] Iris Vessey. Cognitive fit: A theory-based analysis of the graphs versus tables literature.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[10] Narayan S. Umanath and Iris Vessey. Multiattribute data presentation and human judgment: A cognitive fit perspective.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[11] Zhuoqun Li, Hongyu Lin, Yaojie Lu, Hao Xiang, Xianpei Han, and Le Sun. Meta-cognitive analysis: Evaluating declarative and procedural knowledge in datasets and large language models.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[12] Jain, Parag, Andreea Marzoca, and Francesco Piccinno. "Structsum generation for faster text comprehension." arxiv preprint arxiv:2401.06837 (2024).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[13] Li Z, Chen X, Yu H, et al. Structrag: Boosting knowledge intensive reasoning of llms via inference-time hybrid information structurization[J]. arXiv preprint arXiv:2410.08815, 2024.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[14] Wang, Jinyu, et al. "PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation." arXiv preprint arXiv:2501.11551 (2025).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[15] Wu, Shirley, et al. "Stark: Benchmarking llm retrieval on textual and relational knowledge bases." Advances in Neural Information Processing Systems 37 (2024): 127129-127153.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[16] Guo, Zirui, et al. "Lightrag: Simple and fast retrieval-augmented generation." (2024).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[17] Huang, Chensen, et al. "Recurrent context compression: Efficiently expanding the context window of llm." arXiv preprint arXiv:2406.06110 (2024).</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[18] Liu, Kai, et al. "Educating llms like human students: Structure-aware injection of domain knowledge." arXiv e-prints (2024): arXiv-2407.</font>
->
+> <br>
 > <font style="color:rgb(102, 102, 102);">[19] Jain, Parag, Andreea Marzoca, and Francesco Piccinno. "Structsum generation for faster text comprehension." arxiv preprint arxiv:2401.06837 (2024).</font>
->
+> <br>
 
 
 
@@ -587,19 +587,19 @@ Insight：
 
 
 > [1] From Local to Global: A GraphRAG Approach to Query-Focused Summarization
->
+> <br>
 > [2] STRUCTRAG: BOOSTING KNOWLEDGE INTENSIVE REASONING OF LLMS VIA INFERENCE-TIME HYBRID INFORMATION STRUCTURIZATION
->
+> <br>
 > [3] Enhancing LLM’s Cognition via Structurization
->
+> <br>
 > [4] STRUCTSUM Generation for Faster Text Comprehension
->
+> <br>
 > [5] ToRA A Tool-Integrated Reasoning Agent for Mathematical Problem Solving
->
+> <br>
 > [6] CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning
->
+> <br>
 > [7] LMUnit: Fine-grained Evaluation with Natural Language Unit Tests
->
+> <br>
 > [8] Inference-Time Scaling for Generalist Reward Modeling
 >
 
