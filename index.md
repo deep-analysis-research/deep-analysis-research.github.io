@@ -22,6 +22,26 @@ We are excited to expand our team and are currently seeking Research Interns to 
 
 # Selected work
 
+- **Interpret and Improve In-Context Learning via the Lens of Input-Label Mappings** <br>
+  Chenghao Sun, Zhen Huang, Yonggang Zhang, Le Lu, Houqiang Li, Xinmei Tian, Xu Shen, Jieping Ye <br>
+  ACL 2025 (Main) <br>
+    paper | repo
+
+- **Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models** <br>
+  Wei Li, Zhen Huang, Houqiang Li, Le Lu, Yang Lu, Xinmei Tian, Xu Shen, Jieping Ye <br>
+  ACL 2025 (Main) <br>
+    paper | repo
+
+- **Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions** <br>
+  Yiqun Wang, Chaoqun Wan, Sile Hu, Yonggang Zhang, Xiang Tian, Yaowu Chen, Xu Shen, Jieping Ye <br>
+  ACL 2025 (Main) <br>
+    paper | repo
+
+- **SNeuronMerge: Merging Models via Functional Neuron Groups.** <br>
+  Wangyun Gu, Qianghua Gao, Xu Shen, Jieping Ye <br>
+  ACL 2025 (Finding) <br>
+    paper | repo
+
 - **Interpreting and Improving Large Language Models in Arithmetic Calculation** <br>
   Wei Zhang, Chaoqun Wan, Yonggang Zhang, Yiu-ming Cheung, Xinmei Tian, Xu Shen, Jieping Ye <br>
   ICML 2024 (Oral, top5%) <br>
@@ -53,7 +73,7 @@ We are excited to expand our team and are currently seeking Research Interns to 
 - **Interpretable Composition Attribution Enhancement for Visio-linguistic Compositional Understanding** <br>
   Wei Li, Zhen Huang, Xinmei Tian, Le Lu, Houqiang Li, Xu Shen, Jieping Ye <br>
   EMNLP 2024 (Main) <br>
-    [paper](hhttps://aclanthology.org/2024.emnlp-main.810.pdf)
+    [paper](https://aclanthology.org/2024.emnlp-main.810.pdf)
 
 - **SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs** <br>
   Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye <br>
