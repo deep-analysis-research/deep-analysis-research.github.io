@@ -24,22 +24,22 @@ We are excited to expand our team and are currently seeking Research Interns to 
 
 - **[New!🎉🎉] Interpret and Improve In-Context Learning via the Lens of Input-Label Mappings** <br>
   Chenghao Sun, Zhen Huang, Yonggang Zhang, Le Lu, Houqiang Li, Xinmei Tian, Xu Shen, Jieping Ye <br>
-  ACL 2025 (Main) <br>
+  ACL 2025 <br>
     paper | repo
 
 - **[New!🎉🎉] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models** <br>
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, Yang Lu, Xinmei Tian, Xu Shen, Jieping Ye <br>
-  ACL 2025 (Main) <br>
+  ACL 2025 <br>
     paper | repo
 
 - **[New!🎉🎉] Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions** <br>
   Yiqun Wang, Chaoqun Wan, Sile Hu, Yonggang Zhang, Xiang Tian, Yaowu Chen, Xu Shen, Jieping Ye <br>
-  ACL 2025 (Main) <br>
+  ACL 2025 <br>
     paper | repo
 
 - **[New!🎉🎉] NeuronMerge: Merging Models via Functional Neuron Groups** <br>
   Wangyun Gu, Qianghua Gao, Xu Shen, Jieping Ye <br>
-  ACL 2025 (Finding) <br>
+  ACL 2025 <br>
     paper | repo
 
 - **Interpreting and Improving Large Language Models in Arithmetic Calculation** <br>
