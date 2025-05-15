@@ -72,12 +72,12 @@ We are excited to expand our team and are currently seeking Research Interns to 
 
 - **Interpretable Composition Attribution Enhancement for Visio-linguistic Compositional Understanding** <br>
   Wei Li, Zhen Huang, Xinmei Tian, Le Lu, Houqiang Li, Xu Shen, Jieping Ye <br>
-  EMNLP 2024 (Main) <br>
+  EMNLP 2024  <br>
     [paper](https://aclanthology.org/2024.emnlp-main.810.pdf)
 
 - **SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs** <br>
   Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye <br>
-  ACL 2024 (Main) <br>
+  ACL 2024 <br>
     [paper](https://arxiv.org/abs/2410.02811)
 
 ---
